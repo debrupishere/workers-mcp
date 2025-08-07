@@ -17,6 +17,6 @@
     "wrangler": "^3.60.3"
   },
   "dependencies": {
-    "workers-mcp": "^0.0.10"
+    "workers-mcp": "^0.0.13"
   }
 }
